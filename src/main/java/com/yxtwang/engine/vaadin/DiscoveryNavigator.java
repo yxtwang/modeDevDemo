@@ -18,7 +18,7 @@ import com.vaadin.ui.UI;
 
 /**
  * 
- * 分布导航
+ * 分布导航---
  * 
  * @author yanxt
  */
